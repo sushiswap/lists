@@ -592,6 +592,14 @@
     "symbol": "MCB"
   },
   {
+    "address": "0xF37A4c229D9Ee533930039D0e594E5B9738b818f",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF37A4c229D9Ee533930039D0e594E5B9738b818f.jpg",
+    "name": "Milk Token",
+    "symbol": "MILK"
+  },
+  {
     "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
     "chainId": 42161,
     "decimals": 18,
