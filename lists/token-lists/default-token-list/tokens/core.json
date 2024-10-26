@@ -32,6 +32,14 @@
     "symbol": "GM"
   },
   {
+    "address": "0xA5C4cD9AD4BeDA2EF1bEfECE1eE16511EBCc41aD",
+    "chainId": 1116,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xA5C4cD9AD4BeDA2EF1bEfECE1eE16511EBCc41aD.jpg",
+    "name": "Just Use Core",
+    "symbol": "JUC"
+  },
+  {
     "address": "0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79",
     "chainId": 1116,
     "decimals": 18,
