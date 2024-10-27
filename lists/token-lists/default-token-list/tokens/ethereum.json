@@ -1016,6 +1016,14 @@
     "symbol": "DIVINE"
   },
   {
+    "address": "0xc81b27Ac184A631a0Cbde20b51c734664b04d5B3",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc81b27Ac184A631a0Cbde20b51c734664b04d5B3.jpg",
+    "name": "Decentralized Money USD",
+    "symbol": "DMusd"
+  },
+  {
     "address": "0xC7937B44532bf4C0a1f0de3a46c79DdDb6dD169d",
     "chainId": 1,
     "decimals": 18,
