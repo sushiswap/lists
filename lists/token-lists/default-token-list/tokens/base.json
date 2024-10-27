@@ -80,6 +80,14 @@
     "symbol": "BENJI"
   },
   {
+    "address": "0x490842e0ce13A77b0B58d456120E13c7599808D7",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x490842e0ce13A77b0B58d456120E13c7599808D7.jpg",
+    "name": "Base Simpson",
+    "symbol": "Bimpson"
+  },
+  {
     "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
     "chainId": 8453,
     "decimals": 9,
