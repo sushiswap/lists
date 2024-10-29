@@ -1168,6 +1168,14 @@
     "symbol": "RAIDER"
   },
   {
+    "address": "0x4dD26C9913546D4bE1abC1458A2572d44108e626",
+    "chainId": 137,
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4dD26C9913546D4bE1abC1458A2572d44108e626.jpg",
+    "name": "Rato Rico",
+    "symbol": "Rato"
+  },
+  {
     "address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
     "chainId": 137,
     "decimals": 18,
