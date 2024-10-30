@@ -320,6 +320,14 @@
     "symbol": "BAB"
   },
   {
+    "address": "0x58c10aB5B6f4f165674c584c05e6Ac7E1D65Fc95",
+    "chainId": 1,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x58c10aB5B6f4f165674c584c05e6Ac7E1D65Fc95.jpg",
+    "name": "Babygirl",
+    "symbol": "BABYGIRL"
+  },
+  {
     "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
     "chainId": 1,
     "decimals": 18,
