@@ -1623,4 +1623,12 @@
     "name": "LayerZero",
     "symbol": "ZRO"
   }
+  {
+    "address": "0xC18b9Df3bBe6C351a6BFC0f77D35771B0635DFB3",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+    "name": "GranadaGroundsX",
+    "symbol": "GgX"
+  }
 ]
