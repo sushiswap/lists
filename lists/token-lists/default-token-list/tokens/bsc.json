@@ -910,5 +910,13 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
     "name": "LayerZero",
     "symbol": "ZRO"
+  },
+  {
+  "address": "0x19a58b397342656034F7AA50cE6ab3A061cf81C3",
+  "chainId": 56, 
+  "decimals": 18,
+  "logoURI": "https://salmon-hollow-skunk-97.mypinata.cloud/ipfs/bafybeiawtweryoyon3dys5da6ns5xbd7zgdk6ec3ov7ljjqyj6sfpbxute",
+  "name": "Infest Token",
+  "symbol": "ITK"
   }
 ]
